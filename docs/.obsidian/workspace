@@ -1,0 +1,139 @@
+{
+  "main": {
+    "id": "2d3cba224ffaa7ad",
+    "type": "split",
+    "children": [
+      {
+        "id": "b012ebc35995b082",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "README.md",
+            "mode": "source",
+            "source": false
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "d51c024a4d073d6b",
+    "type": "split",
+    "children": [
+      {
+        "id": "96ae20db5b4e1a55",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "27254ec6c37e972a",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "4965652943bfb4d6",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "c41e4e7c602137b7",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "29c7592080013e8f",
+    "type": "split",
+    "children": [
+      {
+        "id": "42741f52f1323e92",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "88e987ddfd57e00e",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "README.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "67e7889bd12ab086",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "README.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "1791945654a7e5b5",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "732e7b15ae629933",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "README.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "b012ebc35995b082",
+  "lastOpenFiles": [
+    "Coffee/supervisor-ai.md",
+    "Coffee/realtime-user-store.md",
+    "Coffee/README.md",
+    "README.md",
+    "Experience Design Resources.md"
+  ]
+}

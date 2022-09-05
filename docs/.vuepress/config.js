@@ -5,21 +5,21 @@ import { gitPlugin } from '@vuepress/plugin-git'
 
 export default defineUserConfig({
   lang: 'en-US',
-  title: 'Coffee Dictionary',
-  description: 'Just playing around',
+  title: 'Connor Forsyth',
+  description: 'A place to store and share my knowledge.',
   plugins: [
     searchPlugin({
       // options
     }),
     gitPlugin({
         // options
+        contributors: false,
+        docsRepo: 'https://github.com/connorforsythco/Vuepress2/',
+        docsDir: 'docs',
       }),
   ],
-    docsRepo: 'https://github.com/connorforsythco/connorforsythco`',
-    docsDir: 'docs',
-    editLinks: true,
-    lastUpdated: true,
-    footerHtml: true,
+    
+    
   
     theme: defaultTheme({
      // public file path

@@ -25,7 +25,8 @@ export default defineUserConfig({
      // public file path
      logo: 'img/WEBCLIP.png',
     navbar: [
-      {text: 'coffee', link: '/coffee/',}
+      {text: 'coffee', link: '/coffee/',},
+      {text: 'Experience Design', link: '/Experience Design Resources.md/',}
   ]
   }),
 

@@ -63,7 +63,7 @@ All the approaches…
 [Book: A tiny history of Service Design](https://service-design.co/book-a-tiny-history-of-service-design-368ed603797c)
 
 ## books
-![alt](XD-Resources/TheDesignofEverydayThings.png)
+![alt](/XD-Resources/TheDesignofEverydayThings.png)
 [**The Design of Everyday Things — By Don Norman**](https://www.sunyoungkim.org/class/old/hci_f18/pdf/The-Design-of-Everyday-Things-Revised-and-Expanded-Edition.pdf)
 
 Best approachable thinking to design. 
@@ -71,7 +71,7 @@ READ THIS BOOK! Get the Audiobook. Everyone should read this. **Link above.**
 
 Author Don Norman is one of the Founders of NN Group.
 
-![field guide](XD-Resources/thefieldguide.png)
+![field guide](/XD-Resources/thefieldguide.png)
 [**Download the Field Guide to HCD](https://www.designkit.org/resources/1?utm_medium=ApproachPage&utm_source=www.ideo.org&utm_campaign=FGButton)** 
 
 This includes various design thinking exercises and workshops that you can apply in teams, assignments and general reflection. I recommend printing this out and flicking through it whenever you are stuck in a problem.
@@ -80,25 +80,25 @@ This includes various design thinking exercises and workshops that you can apply
 
 ## Instagrams to follow
 
-![@ux.partiria](XD-Resources/ux.partricia.png)
+![@ux.partiria](/XD-Resources/ux.partricia.png)
 
 **[@ux.patricia](http://instagram.com/ux.patricia)**
 
 Great general content on UX design
 
-![UX goodies](XD-Resources/uxgoodies.png)
+![UX goodies](/XD-Resources/uxgoodies.png)
 
 [**@uxgoodies**](https://www.instagram.com/uxgoodies/)
 
 Great general content on UX design
 
-![@ideo_U](XD-Resources/ideo_U.png)
+![@ideo_U](/XD-Resources/ideo_U.png)
 
 [**@ideo_u**](https://www.instagram.com/ideo_u/)
 
 Strategic design education. Global design projects.
 
-![@interaction_design_foundation](XD-Resources/ixdf.png)
+![@interaction_design_foundation](/XD-Resources/ixdf.png)
 
 [**@interaction_design_foundation/**](https://www.instagram.com/interaction_design_foundation/)
 

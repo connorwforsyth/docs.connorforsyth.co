@@ -30,15 +30,16 @@ Services are all around us.
 
 ### [IDEO](http://ideo.org)
 
-[https://vimeo.com/106505300](https://vimeo.com/106505300)
+<div style="padding:56.25% 0 0 0;position:relative;"><iframe src="https://player.vimeo.com/video/106505300?h=e03a439c58&title=0&byline=0&portrait=0" style="position:absolute;top:0;left:0;width:100%;height:100%;" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen></iframe></div>
+<p>Learn more about human-centered design and join IDEO.org&#039;s online learning community at www.designkit.org.</p>
 
 **Introduction to Human-Centered Design**
 
 [Here is a free course into design thinking by IDEO.](https://www.acumenacademy.org/course/design-kit-human-centered-design)
 
 ### [NN Group](http://ideo.org)
-
-[https://www.youtube.com/watch?v=6lmvCqvmjfE](https://www.youtube.com/watch?v=6lmvCqvmjfE)
+<div style="padding:56.25% 0 0 0;position:relative;">
+<iframe style="position:absolute;top:0;left:0;width:100%;height:100%;" src="https://www.youtube.com/embed/6lmvCqvmjfE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
 
 **NN's Intro to Design Thinking**
 
@@ -48,15 +49,16 @@ Services are all around us.
 
 ### Design Sprints
 
-[https://youtu.be/jUchN8CnkLE](https://youtu.be/jUchN8CnkLE)
+<div style="padding:56.25% 0 0 0;position:relative;">
+<iframe style="position:absolute;top:0;left:0;width:100%;height:100%;" src="https://youtube.com/embed/jUchN8CnkLE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
 
 Great toolkit and recipe for problem solving.
 
 ### Agile vs Lean vs Design Thinking
 
-[https://www.youtube.com/watch?v=MesYt7PhLFQ&ab_channel=MindtheProduct](https://www.youtube.com/watch?v=MesYt7PhLFQ&ab_channel=MindtheProduct)
-
-All the approaches…
+<div style="padding:56.25% 0 0 0;position:relative;">
+<iframe style="position:absolute;top:0;left:0;width:100%;height:100%;" src="https://www.youtube.com/embed/MesYt7PhLFQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
+<figcaption>All of the methods reviewed.</figcaption>
 
 ## History of Service Design
 

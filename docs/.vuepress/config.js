@@ -41,6 +41,7 @@ export default defineUserConfig({
      contributors: false,
      docsRepo: 'https://github.com/connorforsythco/Vuepress2',
      docsDir: 'docs',
+     docsBranch: 'master',
      editLinkText: 'Edit this page',
     navbar: [
       {text: 'coffee', link: '/coffee/',},

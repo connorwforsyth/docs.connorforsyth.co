@@ -39,7 +39,7 @@ export default defineUserConfig({
      // public file path
      logo: 'webclip.png',
      contributors: false,
-     docsRepo: 'https://github.com/connorforsyth/docs.connorforsyth.co',
+     docsRepo: 'https://github.com/connorwforsyth/docs.connorforsyth.co',
      docsDir: 'docs',
      docsBranch: 'master',
      editLinkText: 'Edit this page',

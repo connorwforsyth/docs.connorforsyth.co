@@ -44,7 +44,7 @@ export default defineUserConfig({
      docsBranch: 'master',
      editLinkText: 'Edit this page',
     navbar: [
-      {text: 'coffee', link: '/coffee/',},
+      {text: 'Porfolio', link: 'https://connorforsyth.co',},
       {text: 'Experience Design', link: '/Experience Design Resources.md/',}
   ],
   sidebar: {

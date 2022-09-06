@@ -29,7 +29,7 @@ export default defineUserConfig({
       }),
     googleAnalyticsPlugin({
       // options
-      id: 'G-330532202',
+      id: 'G-58L8XFVVZ8',
     }),
   ],
     

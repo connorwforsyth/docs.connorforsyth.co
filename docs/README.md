@@ -9,7 +9,9 @@ sidebar: false
 
 [Knowledge](/knowledge/) <br />Personal zettlekasten.
 
-**Find me online** <br />[Portfolio](https://connorforsyth.co) | [Twitter](https://twitter.com/connorwforsyth) | [GitHub](https://github.com/connorforsythco) | [LinkedIn](https://www.linkedin.com/in/connorwforsyth/)
+[Portfolio](https://connorforsyth.co) <br />Design tinkering.
+
+**Find me online** <br /> [Twitter](https://twitter.com/connorwforsyth) | [GitHub](https://github.com/connorforsythco) | [LinkedIn](https://www.linkedin.com/in/connorwforsyth/)
 
 
 ## Work

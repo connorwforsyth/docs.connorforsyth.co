@@ -15,7 +15,7 @@ sidebar: false
 ## Work
 
 [Designit](https://designit.com) - Service Designer<br />
-Designit is a call to action to make the difference we want to see in the world. Propelled by restless explorers, strategic designers, bold creatives, compassionate storytellers, visionary technologists and experience makers - together with our partners - we drive shared progress within your organisation and beyond it.
+Designit is a call to action to make the difference we want to see in the world.
 
 [TEDxMelbourne](https://tedxmelbourne.com) - UX/CX Designer<br />
 TEDxMelbourne is your very own Melbourne-based independently-organised TEDx community.
@@ -37,4 +37,4 @@ An opportunity for local people in Melbourne to pitch ideas for impactful commun
 
 #### Newsletter
 
-Subscribe to [Substack](https://connorforsyth.substack.com/subscribe?)
+Subscribe on [Substack](https://connorforsyth.substack.com/subscribe?)

@@ -5,19 +5,22 @@ sidebar: false
 
 ## Designer, maker + drinker of coffee. ☕️
 
-[Blog](/blog/) <br />General writing and opinions.
+[Methods](/Methods/) <br />Comhehensive Guide to improve your brewing.
 
-[Knowledge](/knowledge/) <br />Personal zettlekasten.
+[Regions](/Regions/) <br />
+Not all coffee tasts the same. Learn how region effects the quality of your brew.
 
-[Portfolio](https://connorforsyth.co) <br />Design tinkering.
+[Kit](/kit/) <br />
+Discover best practices to build a great coffee kit. 
 
-**Find me online** <br /> [Twitter](https://twitter.com/connorwforsyth) | [GitHub](https://github.com/connorforsythco) | [LinkedIn](https://www.linkedin.com/in/connorwforsyth/)
+## Why we exist
 
+People around the world are dependent of coffee throughout their daily life. It brings people together. Yet for the most part, people are naive to the passion, creation and journey that's behind each and every cup.
 
-## Work
+We want to bridge the gap between consumers and the supply chain of coffee.
 
-[Designit](https://designit.com) - Service Designer<br />
-Designit is a call to action to make the difference we want to see in the world.
+## Support
+<Feedback />
 
 [TEDxMelbourne](https://tedxmelbourne.com) - UX/CX Designer<br />
 TEDxMelbourne is your very own Melbourne-based independently-organised TEDx community.

@@ -3,7 +3,7 @@ sidebar: false
 ---
 
 
-## Designer, code, make, and drink coffee. ☕️
+## Designer, maker, and drinker of coffee. ☕️
 
 [Blog](/blog/) <br />General writing and opinions.
 

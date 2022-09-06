@@ -1,5 +1,5 @@
 {
-  "name": "Vuepress2",
+  "name": "docs.coffee",
   "version": "1.0.0",
   "main": "index.js",
   "license": "MIT",
@@ -10,6 +10,7 @@
   "devDependencies": {
     "@vuepress/plugin-git": "^2.0.0-beta.51",
     "@vuepress/plugin-google-analytics": "^2.0.0-beta.51",
+    "@vuepress/plugin-register-components": "^2.0.0-beta.51",
     "@vuepress/plugin-search": "^2.0.0-beta.51",
     "vuepress": "^2.0.0-beta.51"
   }

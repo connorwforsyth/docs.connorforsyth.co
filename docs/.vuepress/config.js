@@ -19,7 +19,11 @@ export default defineUserConfig({
     ['meta', { name: "msapplication-config", content: "favicon.png"}],
     ['meta', { name: "theme-color", content: "#ffffff"}],
   ],
-
+  bundler: webpackBundler({
+    postcss: {},
+    vue: {},
+  }),
+  
   plugins: [
     searchPlugin({
       // options
@@ -37,16 +41,26 @@ export default defineUserConfig({
   
     theme: defaultTheme({
      // public file path
-     logo: 'webclip.png',
-     contributors: false,
-     docsRepo: 'https://github.com/connorwforsyth/docs.connorforsyth.co',
-     docsDir: 'docs',
-     docsBranch: 'master',
-     editLinkText: 'Edit this page',
-    navbar: [
-      {text: 'Coffee', link: 'https://docs.coffee',},
-      {text: 'Portfolio', link: 'https://connorforsytgh.co',},
-  ],
+      logo: 'webclip.png',
+      contributors: false,
+      docsRepo: 'https://github.com/connorwforsyth/docs.connorforsyth.co',
+      docsDir: 'docs',
+      docsBranch: 'master',
+      editLinkText: 'Edit this page',
+      navbar: [
+        {text: 'Portfolio', link: 'https://connorforsyth.co'}
+    ],
+    sidebar: {
+      '/knowledge/': [
+        {
+          title: 'Latin Dance',
+          collapsable: false,
+          children: [
+            '/Knowledge/latin-dance/cuban-salsa/rueda-de-casino'
+          ],
+        }
+        ]
+    }
   }),
 
 })

@@ -19,10 +19,16 @@ Creating access to vipassana meditation techniques for people around the world.
 
 ## Projects
 
+[Knowledge](knowledge/)<br />
+A place to store things, snippets, and share information.
+
 [Coffee Repository](https://docs.coffee/)<br />
 A repository of coffee practices across the supply chain. 
 
-[MelbourneSOUP](https://www.melbournesoup.com)<br />
+[Latin Dance Library](knowledge/Latin%20Dance/Cuban%20Salsa/Rueda%20De%20Casino/)<br />
+A place for me to store and record dance knowledge.
+
+[MelbourneSOUP](https://www.melbournesoup.org)<br />
 An opportunity for local people in Melbourne to pitch ideas for impactful community events.
 
 

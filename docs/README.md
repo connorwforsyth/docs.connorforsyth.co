@@ -2,9 +2,10 @@
 sidebar: false
 ---
 
-## Welcome to my Docs.
+## Welcome to my #docs.
 
-I use this space to document aspects of my life for sharing and safe keeping.
+I use this space to document interests and aspects of my life for sharing and safe keeping.
+So far, you should be able to find links to learn about [coffee](https//:docs.coffee), and [dance]().
 
 ## Work
 

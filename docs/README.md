@@ -2,7 +2,7 @@
 sidebar: false
 ---
 
-## Welcome to my #docs.
+## Welcome to my docs.
 
 I use this space to document interests and aspects of my life for sharing and safe keeping.
 So far, you should be able to find links to learn about [coffee](https//:docs.coffee), and [dance]().
@@ -40,7 +40,7 @@ An opportunity for local people in Melbourne to pitch ideas for impactful commun
 
 #### Newsletter
 
-Subscribe on Substack: [connorforsyth.substack.com](https://connorforsyth.substack.com/subscribe?)
+Subscribe to a blank Substack: [connorforsyth.substack.com](https://connorforsyth.substack.com/subscribe?)
 
 #### RSS feeds
 

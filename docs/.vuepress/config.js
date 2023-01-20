@@ -48,7 +48,8 @@ export default defineUserConfig({
       docsBranch: 'master',
       editLinkText: 'Edit this page',
       navbar: [
-        {text: 'Portfolio', link: 'https://connorforsyth.co'}
+        {text: 'Portfolio', link: 'https://connorforsyth.co'},
+        {text: 'Knowledge', link: '/knowledge/'}
     ],
     sidebar: {
       '/knowledge/': [

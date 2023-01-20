@@ -2,8 +2,9 @@
 sidebar: false
 ---
 
+## Welcome to my Docs.
 
-## Designer, maker + drinker of coffee. ☕️
+I use this space to document aspects of my life for sharing and safe keeping.
 
 ## Work
 

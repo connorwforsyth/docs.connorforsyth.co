@@ -5,7 +5,6 @@ import { gitPlugin } from '@vuepress/plugin-git'
 import { googleAnalyticsPlugin } from '@vuepress/plugin-google-analytics'
 
 export default defineUserConfig({
-  lang: 'en-US',
   title: 'Connor Forsyth',
   description: 'A place to share knowledge.',
   head: [
@@ -44,8 +43,8 @@ export default defineUserConfig({
       docsBranch: 'master',
       editLinkText: 'Edit this page',
       navbar: [
-        {text: 'Portfolio', link: 'https://connorforsyth.co'},
-        {text: 'Knowledge', link: '/knowledge/'}
+        {text: 'Portfolio', link: 'https://connorforsyth.co',},
+        {text: 'Knowledge', link: '/knowledge/',},
     ],
     sidebar: {
       '/knowledge/': [

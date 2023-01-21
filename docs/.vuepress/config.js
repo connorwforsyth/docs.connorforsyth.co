@@ -19,10 +19,6 @@ export default defineUserConfig({
     ['meta', { name: "msapplication-config", content: "favicon.png"}],
     ['meta', { name: "theme-color", content: "#ffffff"}],
   ],
-  bundler: webpackBundler({
-    postcss: {},
-    vue: {},
-  }),
   
   plugins: [
     searchPlugin({

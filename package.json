@@ -1,25 +1,16 @@
 {
-  "name": "docs.connorforsyth.co",
+  "name": "docs.connorforsyth",
   "version": "1.0.0",
   "main": "index.js",
-  "repository": "",
-  "author": "",
+  "author": "connorforsythco <62790515+connorwforsyth@users.noreply.github.com>",
   "license": "MIT",
   "scripts": {
-    "build": "vuepress build docs",
-    "deploy:ipfs": "npm run build && ipd public/",
-    "dev": "vuepress dev docs",
     "docs:dev": "vuepress dev docs",
-    "docs:build": "vuepress build docs",
-    "start": "vuepress dev docs",
-    "theme:eject": "vuepress eject _tmp"
+    "docs:build": "vuepress build docs"
   },
   "devDependencies": {
-    "ipfs-deploy": "^7.13.0",
-    "@vuepress/plugin-google-analytics": "^1.2.0",
-    "vuepress": "^1.2.0"
-  },
-  "dependencies": {
-    "mermaid": "^8.2.6"
+    "@vuepress/plugin-google-analytics": "^2.0.0-beta.60",
+    "@vuepress/plugin-search": "^2.0.0-beta.60",
+    "vuepress": "^2.0.0-beta.60"
   }
 }

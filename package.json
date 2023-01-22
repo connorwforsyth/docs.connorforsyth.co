@@ -1,18 +1,25 @@
 {
-  "name": "connorforsyth.co",
+  "name": "docs.connorforsyth.co",
   "version": "1.0.0",
   "main": "index.js",
+  "repository": "",
+  "author": "",
   "license": "MIT",
   "scripts": {
+    "build": "vuepress build docs",
+    "deploy:ipfs": "npm run build && ipd public/",
+    "dev": "vuepress dev docs",
     "docs:dev": "vuepress dev docs",
-    "docs:build": "vuepress build docs"
+    "docs:build": "vuepress build docs",
+    "start": "vuepress dev docs",
+    "theme:eject": "vuepress eject _tmp"
   },
   "devDependencies": {
-    "@vuepress/bundler-webpack": "^2.0.0-beta.60",
-    "@vuepress/plugin-git": "^2.0.0-beta.51",
-    "@vuepress/plugin-google-analytics": "^2.0.0-beta.51",
-    "@vuepress/plugin-register-components": "^2.0.0-beta.51",
-    "@vuepress/plugin-search": "^2.0.0-beta.60",
-    "vuepress": "^2.0.0-beta.51"
+    "ipfs-deploy": "^7.13.0",
+    "@vuepress/plugin-google-analytics": "^1.2.0",
+    "vuepress": "^1.2.0"
+  },
+  "dependencies": {
+    "mermaid": "^8.2.6"
   }
 }

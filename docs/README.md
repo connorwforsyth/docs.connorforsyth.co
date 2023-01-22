@@ -1,7 +1,3 @@
----
-sidebar: false
----
-
 ## Welcome to my docs.
 
 I use this space to document interests and aspects of my life for sharing and safe keeping.
@@ -40,7 +36,7 @@ An opportunity for local people in Melbourne to pitch ideas for impactful commun
 
 #### Newsletter
 
-Subscribe to a blank Substack: [connorforsyth.substack.com](https://connorforsyth.substack.com/subscribe?)
+Subscribe to a blank newsletter: [connorforsyth.substack.com](https://connorforsyth.substack.com/subscribe?)
 
 #### RSS feeds
 

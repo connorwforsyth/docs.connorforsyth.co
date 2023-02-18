@@ -1,4 +1,4 @@
-## Welcome to my docs.
+## Connor Forsyth Docs
 
 I use this space to document interests and aspects of my life for sharing and saving. <br />
 🚧 Currently in WIP. 

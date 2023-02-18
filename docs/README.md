@@ -1,7 +1,7 @@
 ## Welcome to my docs.
 
-I use this space to document interests and aspects of my life for sharing and safe keeping.
-So far, you should be able to find links to learn about [coffee](https://docs.coffee), and [dance](/dance).
+I use this space to document interests and aspects of my life for sharing and saving. <br />
+🚧 Currently in WIP. 
 
 ## Work
 
@@ -11,20 +11,12 @@ Global strategic design and innovation.
 [TEDxMelbourne](https://tedxmelbourne.com) - UX/CX Designer<br />
 TEDxMelbourne is your very own Melbourne-based independently-organised TEDx community.
 
-[Vipassana at Home](https://www.vipassanaathome.org) - Business Designer<br />
-Creating access to vipassana meditation techniques for people around the world.
 
 
 ## Projects
 
-[Knowledge](knowledge/)<br />
-A place to store things, snippets, and share information.
-
-[Coffee Repository](https://docs.coffee/)<br />
-A repository of coffee practices across the supply chain. 
-
-[Latin Dance Library](knowledge/Latin%20Dance/Cuban%20Salsa/Rueda%20De%20Casino/)<br />
-A place for me to store and record dance knowledge.
+[Vipassana at Home](https://www.vipassanaathome.org) - Business Designer<br />
+Creating access to vipassana meditation techniques for people around the world.
 
 [MelbourneSOUP](https://www.melbournesoup.org)<br />
 An opportunity for local people in Melbourne to pitch ideas for impactful community events.
@@ -34,9 +26,6 @@ An opportunity for local people in Melbourne to pitch ideas for impactful commun
 #### Find me online
 [Twitter](https://twitter.com/connorwforsyth) | [Linkedin](https://www.linkedin.com/in/connorwforsyth) | [Portfolio](https://connorforsyth.co)
 
-#### Newsletter
-
-Subscribe to a blank newsletter: [connorforsyth.substack.com](https://connorforsyth.substack.com/subscribe?)
 
 #### RSS feeds
 

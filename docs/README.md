@@ -23,7 +23,7 @@ A place to store things, snippets, and share information.
 [Coffee Repository](https://docs.coffee/)<br />
 A repository of coffee practices across the supply chain. 
 
-[Latin Dance Library](knowledge/Latin%20Dance/Cuban%20Salsa/Rueda%20De%20Casino/)<br />
+[[Latin Dance Library]]<br />
 A place for me to store and record dance knowledge.
 
 [MelbourneSOUP](https://www.melbournesoup.org)<br />

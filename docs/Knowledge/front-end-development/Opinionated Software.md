@@ -1,0 +1,3 @@
+# Opinionated Software
+
+Opinionated software is software that is designed to make decisions for the user, rather than leaving decisions up to the user. It typically follows a specific set of rules and guidelines, and does not provide much flexibility for customizing the software experience. This technology terminology is usually used to describe software that is designed with a specific purpose in mind, and is not as flexible as other software.

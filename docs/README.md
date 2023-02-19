@@ -1,11 +1,12 @@
 ## Connor Forsyth Docs
 
 I use this space to document interests and aspects of my life for sharing and saving. <br />
-🚧 Currently in WIP. 
+
+> 🚧 Currently in WIP. 
 
 ## Work
 
-[Designit](https:www.linkedin.com/company/designit) - Service Designer <br />
+[Designit](https://www.linkedin.com/company/designit) - Service Designer <br />
 Global strategic design and innovation.
 
 [TEDxMelbourne](https://tedxmelbourne.com) - UX/CX Designer<br />

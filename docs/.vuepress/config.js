@@ -78,10 +78,6 @@ export default {
         text: 'Portfolio',
         link: 'https://connorforsyth.co',
       },
-      {
-        text: 'Knowledge',
-        link: '/knowledge/',
-      },
     ],
     sidebar: {
       '/knowledge/': [{

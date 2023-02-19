@@ -11,9 +11,6 @@ export default {
       searchPlugin({
         // options
       }),
-    {
-      'internal-link':{},
-    },
     pwaPlugin({
       // options
     }),

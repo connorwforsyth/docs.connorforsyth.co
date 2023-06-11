@@ -9,7 +9,7 @@ I use this space to document interests and aspects of my life for sharing and sa
 [Designit](https://www.linkedin.com/company/designit) - Service Designer <br />
 Global strategic design and innovation.
 
-[TEDxMelbourne](https://tedxmelbourne.com) - UX/CX Designer<br />
+[TEDxMelbourne](https://tedxmelbourne.com) - Core Team, Technologist<br />
 TEDxMelbourne is your very own Melbourne-based independently-organised TEDx community.
 
 
